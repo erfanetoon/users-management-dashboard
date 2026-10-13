@@ -8,7 +8,7 @@ import { SidebarNav } from "@/components/layout/sidebar-nav"
  * so this fallback lets the rest of the shell render immediately.
  */
 function SidebarFallback() {
-  return <div className="hidden w-64 shrink-0 bg-sidebar md:block md:min-h-full" />
+  return <div className="sticky top-0 hidden h-dvh w-64 shrink-0 bg-sidebar md:block" />
 }
 
 /**
@@ -18,7 +18,7 @@ function SidebarFallback() {
  */
 export function AppShell({ children }: { children: ReactNode }) {
   return (
-    <div className="flex min-h-full flex-col md:flex-row">
+    <div className="flex min-h-dvh flex-col md:flex-row">
       <Suspense fallback={<SidebarFallback />}>
         <SidebarNav />
       </Suspense>

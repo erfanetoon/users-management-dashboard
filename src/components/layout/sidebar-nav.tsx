@@ -77,15 +77,15 @@ function NavigationLinks({ pathname }: { pathname: string }) {
 
 /**
  * Primary navigation.
- * Desktop gets a full sidebar. Small screens get the same links in a top bar
- * so the directory stays usable without a second menu component.
+ * The desktop sidebar stays the full height of the screen while the page
+ * scrolls. Small screens get the same links in a top bar.
  */
 export function SidebarNav() {
   const pathname = usePathname()
 
   return (
     <>
-      <aside className="hidden w-64 shrink-0 flex-col bg-sidebar text-sidebar-foreground md:flex md:min-h-full">
+      <aside className="sticky top-0 hidden h-dvh w-64 shrink-0 flex-col bg-sidebar text-sidebar-foreground md:flex">
         <div className="px-5 pt-6 pb-2">
           <Brand />
         </div>
