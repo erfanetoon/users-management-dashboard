@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local directory data created by the demo API
+/data/users.json
+/data/users.json.tmp
