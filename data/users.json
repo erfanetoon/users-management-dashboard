@@ -1,0 +1,101 @@
+[
+  {
+    "firstName": "Amira",
+    "lastName": "Soltani",
+    "email": "amira.soltani@harbor.example",
+    "role": "admin",
+    "status": "active",
+    "department": "People",
+    "jobTitle": "Head of People",
+    "id": "7d4a1c2e-0b11-4a6e-9c31-1a0e5f6b1001",
+    "createdAt": "2024-11-02T09:00:00.000Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Keller",
+    "email": "jonas.keller@harbor.example",
+    "role": "manager",
+    "status": "active",
+    "department": "Engineering",
+    "jobTitle": "Engineering Manager",
+    "id": "7d4a1c2e-0b11-4a6e-9c31-1a0e5f6b1002",
+    "createdAt": "2025-01-14T09:00:00.000Z"
+  },
+  {
+    "firstName": "Priya",
+    "lastName": "Nair",
+    "email": "priya.nair@harbor.example",
+    "role": "member",
+    "status": "active",
+    "department": "Engineering",
+    "jobTitle": "Product Engineer",
+    "id": "7d4a1c2e-0b11-4a6e-9c31-1a0e5f6b1003",
+    "createdAt": "2025-03-03T09:00:00.000Z"
+  },
+  {
+    "firstName": "Mateo",
+    "lastName": "Alvarez",
+    "email": "mateo.alvarez@harbor.example",
+    "role": "member",
+    "status": "invited",
+    "department": "Design",
+    "jobTitle": "Product Designer",
+    "id": "7d4a1c2e-0b11-4a6e-9c31-1a0e5f6b1004",
+    "createdAt": "2025-06-18T09:00:00.000Z"
+  },
+  {
+    "firstName": "Hana",
+    "lastName": "Ito",
+    "email": "hana.ito@harbor.example",
+    "role": "manager",
+    "status": "active",
+    "department": "Finance",
+    "jobTitle": "Finance Manager",
+    "id": "7d4a1c2e-0b11-4a6e-9c31-1a0e5f6b1005",
+    "createdAt": "2025-02-09T09:00:00.000Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Mensah",
+    "email": "leo.mensah@harbor.example",
+    "role": "member",
+    "status": "suspended",
+    "department": "Support",
+    "jobTitle": "Support Specialist",
+    "id": "7d4a1c2e-0b11-4a6e-9c31-1a0e5f6b1006",
+    "createdAt": "2024-12-11T09:00:00.000Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Berg",
+    "email": "sara.berg@harbor.example",
+    "role": "member",
+    "status": "active",
+    "department": "Marketing",
+    "jobTitle": "Content Lead",
+    "id": "7d4a1c2e-0b11-4a6e-9c31-1a0e5f6b1007",
+    "createdAt": "2025-04-22T09:00:00.000Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Williams",
+    "email": "noah.williams@harbor.example",
+    "role": "admin",
+    "status": "invited",
+    "department": "Security",
+    "jobTitle": "Security Admin",
+    "id": "7d4a1c2e-0b11-4a6e-9c31-1a0e5f6b1008",
+    "createdAt": "2025-08-01T09:00:00.000Z"
+  },
+  {
+    "firstName": "test",
+    "lastName": "test",
+    "email": "erfanhoseinpor@gmail.com",
+    "role": "member",
+    "status": "invited",
+    "department": "test",
+    "jobTitle": "test",
+    "id": "c8473990-62d7-4de8-8bba-d16090ef4402",
+    "createdAt": "2026-10-13T15:12:21.133Z"
+  }
+]
