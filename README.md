@@ -1,6 +1,7 @@
-# Harbor
+# This project implemented by @Erfanetoon and cursor agent's helps
 
 People directory for a small team. Search, filter, create, edit, and remove people. The data lives in a local JSON file so the demo works without a database.
+
 
 ## Stack
 
